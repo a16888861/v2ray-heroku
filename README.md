@@ -1,6 +1,6 @@
 # v2ray-heroku
 > 部署
-# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/a16888861/v2ray-heroku)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/a16888861/v2ray-heroku)
+# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/a16888861/v2ray-heroku)，[一键部署到heroku]
 
 客户端config.json设置如下：
 ```
